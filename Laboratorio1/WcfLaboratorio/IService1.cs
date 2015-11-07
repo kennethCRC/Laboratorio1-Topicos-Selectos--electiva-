@@ -12,10 +12,10 @@ namespace WcfLaboratorio
     public interface IService1
     {
         [OperationContract]
-        string GetData(int value);
+        string GetQueDeseaCalcular(int value);
 
         [OperationContract]
-        CompositeType GetDataUsingDataContract(CompositeType composite);
+        double CalcularAreaTrianguloHeron(double lado1, double lado2, double lado3);
 
         // TODO: Add your service operations here
     }
