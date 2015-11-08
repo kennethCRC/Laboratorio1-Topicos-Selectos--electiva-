@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\WcfCalcularAreaTriangulo\bin\Debug\WcfCalcularAreaTriangulo.dll.config
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\WcfCalcularAreaTriangulo\bin\Debug\WcfCalcularAreaTriangulo.dll
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\WcfCalcularAreaTriangulo\bin\Debug\WcfCalcularAreaTriangulo.pdb
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\WcfCalcularAreaTriangulo\bin\Debug\CalcularAreaTrianguloHeron.dll
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\WcfCalcularAreaTriangulo\bin\Debug\CalcularAreaTrianguloHeron.pdb
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\WcfCalcularAreaTriangulo\obj\Debug\WcfCalcularAreaTriangulo.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\WcfCalcularAreaTriangulo\obj\Debug\WcfCalcularAreaTriangulo.dll
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\WcfCalcularAreaTriangulo\obj\Debug\WcfCalcularAreaTriangulo.pdb

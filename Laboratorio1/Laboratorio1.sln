@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularAreaTrianguloHeron"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfCalcularAreaTriangulo", "WcfCalcularAreaTriangulo\WcfCalcularAreaTriangulo.csproj", "{2973C639-CE13-424C-8E9D-5AB5DB2D2B38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularAreaTrianguloHeron.Test", "CalcularAreaTrianguloHeron.Test\CalcularAreaTrianguloHeron.Test.csproj", "{DE599E19-CAD5-432E-81CD-0C012CD82ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfCalcularAreaTriangulo.Test", "WcfCalcularAreaTriangulo.Test\WcfCalcularAreaTriangulo.Test.csproj", "{68F25022-13C6-4970-8413-BE673D437259}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2973C639-CE13-424C-8E9D-5AB5DB2D2B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2973C639-CE13-424C-8E9D-5AB5DB2D2B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2973C639-CE13-424C-8E9D-5AB5DB2D2B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE599E19-CAD5-432E-81CD-0C012CD82ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE599E19-CAD5-432E-81CD-0C012CD82ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE599E19-CAD5-432E-81CD-0C012CD82ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE599E19-CAD5-432E-81CD-0C012CD82ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F25022-13C6-4970-8413-BE673D437259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F25022-13C6-4970-8413-BE673D437259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F25022-13C6-4970-8413-BE673D437259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F25022-13C6-4970-8413-BE673D437259}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

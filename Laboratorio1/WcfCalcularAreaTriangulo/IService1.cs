@@ -13,7 +13,9 @@ namespace WcfCalcularAreaTriangulo
     {
         [OperationContract]
         double GetAreaTriangulo(double lado1, double lado2, double lado3);
-        
+        [OperationContract]
+        double GetPerimetroTriangulo(double lado1, double lado2, double lado3);
+
         // TODO: Add your service operations here
     }
 

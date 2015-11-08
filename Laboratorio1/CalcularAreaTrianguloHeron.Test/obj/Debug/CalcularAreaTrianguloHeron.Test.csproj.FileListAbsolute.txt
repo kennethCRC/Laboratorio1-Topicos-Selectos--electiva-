@@ -1,0 +1,11 @@
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron.Test\bin\Debug\CalcularAreaTrianguloHeron.Test.dll
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron.Test\bin\Debug\CalcularAreaTrianguloHeron.Test.pdb
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron.Test\bin\Debug\CalcularAreaTrianguloHeron.dll
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron.Test\bin\Debug\WcfCalcularAreaTriangulo.dll
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron.Test\bin\Debug\CalcularAreaTrianguloHeron.pdb
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron.Test\bin\Debug\WcfCalcularAreaTriangulo.pdb
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron.Test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron.Test\obj\Debug\CalcularAreaTrianguloHeron.Test.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron.Test\obj\Debug\CalcularAreaTrianguloHeron.Test.dll
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron.Test\obj\Debug\CalcularAreaTrianguloHeron.Test.pdb

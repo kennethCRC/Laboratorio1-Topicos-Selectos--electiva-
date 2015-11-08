@@ -8,15 +8,16 @@ namespace CalcularAreaTrianguloHeron
 {
     public class VariablesDelCalculo
     {
-        double lado1 =0;
-        double lado2 =0;
-        double lado3 =0;
+        double lado1 = 0;
+        double lado2 = 0;
+        double lado3 = 0;
         double semiPerimetro = 0;
         double area = 0;
         double alturaEnA = 0;
         double alturaEnB = 0;
         double alturaEnC = 0;
         int cantidadLados = 0;
+        double perimetro = 0;
         public VariablesDelCalculo()
         {
 
@@ -99,6 +100,14 @@ namespace CalcularAreaTrianguloHeron
         public int GetCantidadLados()
         {
             return cantidadLados;
+        }
+        public void setPerimetro(double l1, double l2, double l3)
+        {
+            perimetro = l1+l2+l3;
+        }
+        public double getPerimetro()
+        {
+            return perimetro;
         }
     }
 }

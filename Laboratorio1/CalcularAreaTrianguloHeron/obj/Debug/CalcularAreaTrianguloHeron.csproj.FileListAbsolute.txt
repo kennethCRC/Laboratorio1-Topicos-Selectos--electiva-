@@ -1,0 +1,5 @@
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron\bin\Debug\CalcularAreaTrianguloHeron.dll
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron\bin\Debug\CalcularAreaTrianguloHeron.pdb
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron\obj\Debug\CalcularAreaTrianguloHeron.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron\obj\Debug\CalcularAreaTrianguloHeron.dll
+C:\Users\User\Documents\GitHub\Laboratorio1-Topicos-Selectos--electiva-\Laboratorio1\CalcularAreaTrianguloHeron\obj\Debug\CalcularAreaTrianguloHeron.pdb
